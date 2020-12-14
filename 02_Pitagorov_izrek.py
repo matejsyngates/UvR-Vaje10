@@ -6,3 +6,4 @@ kateta2 = float(input("Vnesi dolžino druge katete v mm:"))
 hipotenuza = float(sqrt(kateta1**2 + kateta2**2))
 
 print("Dolžina katete je", hipotenuza, "mm.")
+print("pocasen si")
